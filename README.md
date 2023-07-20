@@ -8,7 +8,7 @@ https://developers.google.com/identity/protocols/oauth2/resources/best-practices
 
 How to run:
 
-Fill out CLIENT_ID and CLIENT_SECRET
-
-npm install
-npm run start
+1. Fill out CLIENT_ID, CLIENT_SECRET
+2. Change AUTHORIZATION_URL and TOKEN_URL to the ones provided to you
+3. npm install
+4. npm run start
