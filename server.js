@@ -118,5 +118,5 @@ app.get('/refresh', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Server running on http://localhost:${port}`)
+    console.log(`Start your auth journey here http://localhost:${port}/auth`)
 });

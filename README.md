@@ -12,3 +12,4 @@ How to run:
 2. Change AUTHORIZATION_URL and TOKEN_URL to the ones provided to you
 3. npm install
 4. npm run start
+5. login at http://localhost:3000/auth
